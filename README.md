@@ -248,3 +248,10 @@ This image is officially supported on Docker version 17.09, with support for old
 [docker-pulls-image]: https://img.shields.io/docker/pulls/ruimarinho/bitcoin-core.svg?style=flat-square
 [docker-size-image]: https://img.shields.io/imagelayers/image-size/ruimarinho/bitcoin-core/latest.svg?style=flat-square
 [docker-stars-image]: https://img.shields.io/docker/stars/ruimarinho/bitcoin-core.svg?style=flat-square
+
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
